@@ -179,29 +179,6 @@ These findings align with known fluid dynamic and blood chemistry effects during
 
 ---
 
-# Repository Structure
-
-```text
-Blood-Droplet-Biometrics-XAI/
-
-│
-├── notebooks/
-│   ├── DenseNet201_RF.ipynb
-│   ├── SHAP_Analysis.ipynb
-│   ├── GradCAM_Visualization.ipynb
-│   ├── CMC_Analysis.ipynb
-│   └── Embedding_Analysis.ipynb
-│
-├── images/
-├── results/
-├── models/
-├── README.md
-├── requirements.txt
-└── LICENSE
-```
-
----
-
 # Technologies Used
 
 - Python
